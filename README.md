@@ -20,3 +20,12 @@ Thành viên nhóm:
 
 1 sourcecode ứng dụng DSLKD vào chương trình Quản lí sinh viên
 
+# Danh mục tài liệu tham khảo:
+
+[1] Lưu Văn Hiền-Huỳnh Bá Diệu-Nguyễn Thị Bảo Trang, Giới thiệu cấu trúc dữ liệu và giải thuật, Khoa CNTT-DTU,08/2009.
+
+[2] Dương Trần Đức, Giáo trình cấu trúc dữ liệu và giải thuật, Học viện Công nghệ Bưu chính viễn thông, 2010.
+
+[3] Trần Hạnh Nhi-Dương Anh Đức, Giáo trình cấu trúc dữ liệu và giải thuật, NXB Đại học Quốc gia Hồ Chí Minh, 2010.
+
+[4] https://daynhauhoc.com/t/giai-dap-ve-code-quan-ly-sinh-vien-bang-danh-sach-lien-ket/24461.
