@@ -20,6 +20,8 @@ Thành viên nhóm:
 
 1 sourcecode ứng dụng DSLKD vào chương trình Quản lí sinh viên
 
+1 file Mô phổng Single Linked List
+
 # Danh mục tài liệu tham khảo:
 
 [1] Lưu Văn Hiền-Huỳnh Bá Diệu-Nguyễn Thị Bảo Trang, Giới thiệu cấu trúc dữ liệu và giải thuật, Khoa CNTT-DTU,08/2009.
